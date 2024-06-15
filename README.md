@@ -3,3 +3,10 @@ A tool specialized in computer hacking, and it is considered the used and advanc
 
 
 https://github.com/zaks-rz/hacking-pc.git
+
+Dwonload method
+
+
+How to operate the tool ?
+
+Turn off protection completely
