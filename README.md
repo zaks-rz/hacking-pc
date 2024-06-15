@@ -10,3 +10,11 @@ Dwonload method
 How to operate the tool ?
 
 Turn off protection completely
+
+
+
+
+
+```
+V1.2
+```
