@@ -1,5 +1,4 @@
-
-         ![Armitage-logo](https://github.com/zaks-rz/hacking-pc/assets/115031006/df672045-879c-4bf5-8420-8ac3e341e06d)
+![Armitage-logo](https://github.com/zaks-rz/hacking-pc/assets/115031006/df672045-879c-4bf5-8420-8ac3e341e06d)
 
 
 
